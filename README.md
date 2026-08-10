@@ -25,37 +25,6 @@ An Android application that provides detailed information about cricket players,
 
 The objective of this project is to develop an interactive Android application that allows users to easily access cricket player information and listen to the information using voice technology.
 
-## 📂 Project Structure
-
-```text
-CricketPlayersApp/
-│
-├── app/
-│   ├── src/
-│   │   └── main/
-│   │       ├── java/
-│   │       ├── res/
-│   │       │   ├── drawable/
-│   │       │   ├── layout/
-│   │       │   └── values/
-│   │       └── AndroidManifest.xml
-│   │
-│   └── build.gradle
-│
-├── README.md
-└── .gitignore
-```
-
-## 🚀 How to Run
-
-1. Install **Android Studio**.
-2. Clone this repository.
-3. Open the project in Android Studio.
-4. Allow Gradle to complete synchronization.
-5. Connect an Android device or start an Android Emulator.
-6. Click **Run ▶️**.
-7. Select a player and use the **🔊 Speak** button to hear the information.
-
 
 ## 🔮 Future Enhancements
 
